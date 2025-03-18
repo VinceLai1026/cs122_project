@@ -9,6 +9,9 @@ __pycache__/
 # Annoying MacOS file 
 .DS_Store 
 
+# ignore data files 
+data/*
+
 # Distribution / packaging
 .Python
 build/
